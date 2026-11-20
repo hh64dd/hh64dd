@@ -1,4 +1,6 @@
-# helloooo 👋✳
+```c
+printf("helloooo");
+```
 I'm **_psi_**, a novice programmer and aspiring game developer!
 This is not my first GitHub account, but I lost my first unfortunately
 
