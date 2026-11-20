@@ -1,3 +1,3 @@
-```c
-printf("helloooo");
+```lua
+print("helloooo")
 ```
