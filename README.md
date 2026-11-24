@@ -1,6 +1,6 @@
-```gml
-show_text("Hej");
+```lua
+print("sup losers")
 ```
-I'm **mug**, a novice programmer and aspiring gamedev.
+I'm **mug**, a novice programmer and gamedev.
 
 My profile isn't much right now sorry ///>.<///
