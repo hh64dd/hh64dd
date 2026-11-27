@@ -1,7 +1,7 @@
 ```lua
-print("sup losers")
+print("hello lightnerds")
 ```
-I'm **mug**, a novice programmer and gamedev.
+I'm **househead**, a novice programmer and gamedev.
 
 My profile isn't much right now,
 but i'm currently working on a game called [----]
